@@ -31,7 +31,7 @@ These projects demonstrate my capabilities in **social media data analysis**, **
 
 ---
 
-# DashBoards :)
+# DashBoards :
 
 ![Campaign and Engagements](https://github.com/user-attachments/assets/fbca00b4-fbb5-4c62-bd2a-3802c01bec0e)
 
