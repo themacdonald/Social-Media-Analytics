@@ -48,8 +48,8 @@ These projects demonstrate my capabilities in **social media data analysis**, **
 ---
 
 # 📩 Contact Me
-- **LinkedIn:** [https://www.linkedin.com/in/the-macdonald/]
-- **Email:** [uwadonald15@gmail.com]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/the-macdonald/)
+- **Email:** [Email](uwadonald15@gmail.com)
 
 I am currently open to full-time, contract, or freelance opportunities 
 ---
