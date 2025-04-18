@@ -8,7 +8,7 @@ These projects demonstrate my capabilities in **social media data analysis**, **
 
 # 🚀 Projects
 
-## 1. [Influencer Performance Tracker Dashboard](https://github.com/yourgithub/influencer-performance-tracker)
+## 1. [Influencer Performance Tracker Dashboard](https://github.com/yourgithub/influencer-performance-tracker)(https://github.com/themacdonald/Social-Media-Analytics/tree/main/Influencer_Performance%20Tracker)
 - Analyzes influencer activities across YouTube, Instagram, and TikTok.
 - Metrics include followers, engagement rates, monthly growth, and content categories.
 - Designed for brands seeking authentic, high-performing collaborators.
