@@ -14,7 +14,7 @@ These projects demonstrate my capabilities in **social media data analysis**, **
 - Designed for brands seeking authentic, high-performing collaborators.
 - Built using Microsoft Excel for data preparation and Power BI/Tableau for dashboard creation.
 
-## 2. [Campaign Engagement & ROI Analyzer Dashboard](https://github.com/yourgithub/campaign-engagement-roi-analyzer)
+## 2. [Campaign Engagement & ROI Analyzer Dashboard](https://github.com/themacdonald/Social-Media-Analytics/tree/main/Campaign_%20Engagements)
 - Evaluates 10 marketing campaigns based on budget, engagement, conversions, and ROI.
 - Helps marketers optimize influencer selection and improve campaign profitability.
 - Pre-calculated key performance indicators like Cost per Engagement (CPE), Conversion Rate, and ROI%.
