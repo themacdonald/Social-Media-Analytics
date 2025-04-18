@@ -1,4 +1,4 @@
-Social Media Analytics Dashboards
+# Social Media Analytics Dashboards
 
 Welcome to my portfolio repository showcasing two professional influencer and campaign analytics dashboards, designed using principles from **"Big Book of Dashboards"** and **"Storytelling with Data."**
 
