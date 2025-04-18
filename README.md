@@ -31,6 +31,15 @@ These projects demonstrate my capabilities in **social media data analysis**, **
 
 ---
 
+# DashBoards :)
+- [Influencer Performance Tracker Dashboard](https://github.com/user-attachments/assets/31c72895-cc8b-44f7-8062-69721dfe0ba2)
+- [Campaign Engagement & ROI Analyzer Dashboard](https://github.com/user-attachments/assets/9fdd6c3d-1a31-4ff1-9c19-881c17e8fb46)
+
+
+
+
+---
+
 # 🛠 Tools and Technologies
 - Microsoft Excel
 - Power BI / Tableau Public
